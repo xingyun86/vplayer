@@ -1,0 +1,3 @@
+配置run.bat中的jdk路径环境变量
+配置openjfx-windows-sdk的路径环境变量
+拷贝jar到当前目录，双击运行run.bat脚本即可
